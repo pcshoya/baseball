@@ -8,8 +8,8 @@ header{
 	height: 70px;
 	line-height: 70px;	
 	width: 100%;	
-	background: orange;
 	text-align: center;
+	background-color: orange;
 }
 
 nav{
@@ -19,8 +19,8 @@ nav{
 	height: 30px;
 	line-height:30px;
 	width: 100%;
-	background: pink;
 	font-size: 20px;
+	background-color: pink;
 }
 
 a{
