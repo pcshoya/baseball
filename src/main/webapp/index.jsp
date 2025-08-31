@@ -8,7 +8,9 @@
 </head>
 <body>
 <jsp:include page="header.jsp"></jsp:include>
-
+<section>
+	인덱스 파일입니다.
+</section>
 <jsp:include page="footer.jsp"></jsp:include>
 
 </body>
